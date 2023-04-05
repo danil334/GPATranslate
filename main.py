@@ -38,4 +38,3 @@ def main():
     print(chat.choices[0].message.content)
 
 main()
-print()
